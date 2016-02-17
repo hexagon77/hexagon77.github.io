@@ -11,6 +11,7 @@ background-color: black;
     justify-content: center;
     color: aliceblue;
     font:  normal 88px True Crimes;
+    margin: 10px;
    
     color: #C63D0F;
 
@@ -80,9 +81,11 @@ display: flex;
 
 .footer {
 display: flex;
+   
     height: 100px ;
     justify-content: space-around;
-    margin-top: 63px;
+    margin-top: 65px;
+    padding-top: 
     
 
 }
